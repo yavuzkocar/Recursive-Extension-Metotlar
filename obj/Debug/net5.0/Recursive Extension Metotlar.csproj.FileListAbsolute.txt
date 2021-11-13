@@ -1,0 +1,16 @@
+D:\yazılım\pratikler\Recursive Extension Metotlar\bin\Debug\net5.0\Recursive Extension Metotlar.exe
+D:\yazılım\pratikler\Recursive Extension Metotlar\bin\Debug\net5.0\Recursive Extension Metotlar.deps.json
+D:\yazılım\pratikler\Recursive Extension Metotlar\bin\Debug\net5.0\Recursive Extension Metotlar.runtimeconfig.json
+D:\yazılım\pratikler\Recursive Extension Metotlar\bin\Debug\net5.0\Recursive Extension Metotlar.runtimeconfig.dev.json
+D:\yazılım\pratikler\Recursive Extension Metotlar\bin\Debug\net5.0\Recursive Extension Metotlar.dll
+D:\yazılım\pratikler\Recursive Extension Metotlar\bin\Debug\net5.0\ref\Recursive Extension Metotlar.dll
+D:\yazılım\pratikler\Recursive Extension Metotlar\bin\Debug\net5.0\Recursive Extension Metotlar.pdb
+D:\yazılım\pratikler\Recursive Extension Metotlar\obj\Debug\net5.0\Recursive Extension Metotlar.csproj.AssemblyReference.cache
+D:\yazılım\pratikler\Recursive Extension Metotlar\obj\Debug\net5.0\Recursive Extension Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım\pratikler\Recursive Extension Metotlar\obj\Debug\net5.0\Recursive Extension Metotlar.AssemblyInfoInputs.cache
+D:\yazılım\pratikler\Recursive Extension Metotlar\obj\Debug\net5.0\Recursive Extension Metotlar.AssemblyInfo.cs
+D:\yazılım\pratikler\Recursive Extension Metotlar\obj\Debug\net5.0\Recursive Extension Metotlar.csproj.CoreCompileInputs.cache
+D:\yazılım\pratikler\Recursive Extension Metotlar\obj\Debug\net5.0\Recursive Extension Metotlar.dll
+D:\yazılım\pratikler\Recursive Extension Metotlar\obj\Debug\net5.0\ref\Recursive Extension Metotlar.dll
+D:\yazılım\pratikler\Recursive Extension Metotlar\obj\Debug\net5.0\Recursive Extension Metotlar.pdb
+D:\yazılım\pratikler\Recursive Extension Metotlar\obj\Debug\net5.0\Recursive Extension Metotlar.genruntimeconfig.cache
